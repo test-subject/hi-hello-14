@@ -1,0 +1,12 @@
+{
+  "generated": {
+    "comment": "Objects in the 'generated' property automatically get generated (user-made changes will be written over).",
+    "primaryFile": "index.html",
+    "tabs": [
+      "index.html",
+      "script.js",
+      "style.css"
+    ],
+    "activeTab": "style.css"
+  }
+}
